@@ -3,6 +3,8 @@ Meu readMe
 
 ## Tech Arsenal:
 <div align="center">
+  
 ### **Frontend:**
 ### **Backend:**
+
 </div>
